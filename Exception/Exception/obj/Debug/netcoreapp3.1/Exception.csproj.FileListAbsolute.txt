@@ -1,0 +1,14 @@
+D:\RFP\MoodAnalyser_MSTest\Exception\Exception\bin\Debug\netcoreapp3.1\Exception.exe
+D:\RFP\MoodAnalyser_MSTest\Exception\Exception\bin\Debug\netcoreapp3.1\Exception.deps.json
+D:\RFP\MoodAnalyser_MSTest\Exception\Exception\bin\Debug\netcoreapp3.1\Exception.runtimeconfig.json
+D:\RFP\MoodAnalyser_MSTest\Exception\Exception\bin\Debug\netcoreapp3.1\Exception.runtimeconfig.dev.json
+D:\RFP\MoodAnalyser_MSTest\Exception\Exception\bin\Debug\netcoreapp3.1\Exception.dll
+D:\RFP\MoodAnalyser_MSTest\Exception\Exception\bin\Debug\netcoreapp3.1\Exception.pdb
+D:\RFP\MoodAnalyser_MSTest\Exception\Exception\obj\Debug\netcoreapp3.1\Exception.csproj.AssemblyReference.cache
+D:\RFP\MoodAnalyser_MSTest\Exception\Exception\obj\Debug\netcoreapp3.1\Exception.GeneratedMSBuildEditorConfig.editorconfig
+D:\RFP\MoodAnalyser_MSTest\Exception\Exception\obj\Debug\netcoreapp3.1\Exception.AssemblyInfoInputs.cache
+D:\RFP\MoodAnalyser_MSTest\Exception\Exception\obj\Debug\netcoreapp3.1\Exception.AssemblyInfo.cs
+D:\RFP\MoodAnalyser_MSTest\Exception\Exception\obj\Debug\netcoreapp3.1\Exception.csproj.CoreCompileInputs.cache
+D:\RFP\MoodAnalyser_MSTest\Exception\Exception\obj\Debug\netcoreapp3.1\Exception.dll
+D:\RFP\MoodAnalyser_MSTest\Exception\Exception\obj\Debug\netcoreapp3.1\Exception.pdb
+D:\RFP\MoodAnalyser_MSTest\Exception\Exception\obj\Debug\netcoreapp3.1\Exception.genruntimeconfig.cache
