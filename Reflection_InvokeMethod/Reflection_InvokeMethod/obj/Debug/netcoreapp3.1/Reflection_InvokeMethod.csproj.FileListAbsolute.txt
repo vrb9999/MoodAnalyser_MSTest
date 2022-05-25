@@ -1,0 +1,14 @@
+D:\RFP\MoodAnalyser_MSTest\Reflection_InvokeMethod\Reflection_InvokeMethod\bin\Debug\netcoreapp3.1\Reflection_InvokeMethod.exe
+D:\RFP\MoodAnalyser_MSTest\Reflection_InvokeMethod\Reflection_InvokeMethod\bin\Debug\netcoreapp3.1\Reflection_InvokeMethod.deps.json
+D:\RFP\MoodAnalyser_MSTest\Reflection_InvokeMethod\Reflection_InvokeMethod\bin\Debug\netcoreapp3.1\Reflection_InvokeMethod.runtimeconfig.json
+D:\RFP\MoodAnalyser_MSTest\Reflection_InvokeMethod\Reflection_InvokeMethod\bin\Debug\netcoreapp3.1\Reflection_InvokeMethod.runtimeconfig.dev.json
+D:\RFP\MoodAnalyser_MSTest\Reflection_InvokeMethod\Reflection_InvokeMethod\bin\Debug\netcoreapp3.1\Reflection_InvokeMethod.dll
+D:\RFP\MoodAnalyser_MSTest\Reflection_InvokeMethod\Reflection_InvokeMethod\bin\Debug\netcoreapp3.1\Reflection_InvokeMethod.pdb
+D:\RFP\MoodAnalyser_MSTest\Reflection_InvokeMethod\Reflection_InvokeMethod\obj\Debug\netcoreapp3.1\Reflection_InvokeMethod.csproj.AssemblyReference.cache
+D:\RFP\MoodAnalyser_MSTest\Reflection_InvokeMethod\Reflection_InvokeMethod\obj\Debug\netcoreapp3.1\Reflection_InvokeMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\RFP\MoodAnalyser_MSTest\Reflection_InvokeMethod\Reflection_InvokeMethod\obj\Debug\netcoreapp3.1\Reflection_InvokeMethod.AssemblyInfoInputs.cache
+D:\RFP\MoodAnalyser_MSTest\Reflection_InvokeMethod\Reflection_InvokeMethod\obj\Debug\netcoreapp3.1\Reflection_InvokeMethod.AssemblyInfo.cs
+D:\RFP\MoodAnalyser_MSTest\Reflection_InvokeMethod\Reflection_InvokeMethod\obj\Debug\netcoreapp3.1\Reflection_InvokeMethod.csproj.CoreCompileInputs.cache
+D:\RFP\MoodAnalyser_MSTest\Reflection_InvokeMethod\Reflection_InvokeMethod\obj\Debug\netcoreapp3.1\Reflection_InvokeMethod.dll
+D:\RFP\MoodAnalyser_MSTest\Reflection_InvokeMethod\Reflection_InvokeMethod\obj\Debug\netcoreapp3.1\Reflection_InvokeMethod.pdb
+D:\RFP\MoodAnalyser_MSTest\Reflection_InvokeMethod\Reflection_InvokeMethod\obj\Debug\netcoreapp3.1\Reflection_InvokeMethod.genruntimeconfig.cache
