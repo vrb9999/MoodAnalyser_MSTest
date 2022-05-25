@@ -1,0 +1,14 @@
+D:\RFP\MoodAnalyser_MSTest\Reflection\Reflection\bin\Debug\netcoreapp3.1\Reflection.exe
+D:\RFP\MoodAnalyser_MSTest\Reflection\Reflection\bin\Debug\netcoreapp3.1\Reflection.deps.json
+D:\RFP\MoodAnalyser_MSTest\Reflection\Reflection\bin\Debug\netcoreapp3.1\Reflection.runtimeconfig.json
+D:\RFP\MoodAnalyser_MSTest\Reflection\Reflection\bin\Debug\netcoreapp3.1\Reflection.runtimeconfig.dev.json
+D:\RFP\MoodAnalyser_MSTest\Reflection\Reflection\bin\Debug\netcoreapp3.1\Reflection.dll
+D:\RFP\MoodAnalyser_MSTest\Reflection\Reflection\bin\Debug\netcoreapp3.1\Reflection.pdb
+D:\RFP\MoodAnalyser_MSTest\Reflection\Reflection\obj\Debug\netcoreapp3.1\Reflection.csproj.AssemblyReference.cache
+D:\RFP\MoodAnalyser_MSTest\Reflection\Reflection\obj\Debug\netcoreapp3.1\Reflection.GeneratedMSBuildEditorConfig.editorconfig
+D:\RFP\MoodAnalyser_MSTest\Reflection\Reflection\obj\Debug\netcoreapp3.1\Reflection.AssemblyInfoInputs.cache
+D:\RFP\MoodAnalyser_MSTest\Reflection\Reflection\obj\Debug\netcoreapp3.1\Reflection.AssemblyInfo.cs
+D:\RFP\MoodAnalyser_MSTest\Reflection\Reflection\obj\Debug\netcoreapp3.1\Reflection.csproj.CoreCompileInputs.cache
+D:\RFP\MoodAnalyser_MSTest\Reflection\Reflection\obj\Debug\netcoreapp3.1\Reflection.dll
+D:\RFP\MoodAnalyser_MSTest\Reflection\Reflection\obj\Debug\netcoreapp3.1\Reflection.pdb
+D:\RFP\MoodAnalyser_MSTest\Reflection\Reflection\obj\Debug\netcoreapp3.1\Reflection.genruntimeconfig.cache
